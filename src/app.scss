@@ -1,0 +1,15 @@
+body {
+  color:red;
+}
+
+$brand_primary : green;
+
+h2 {
+  color: $brand_primary;
+}
+
+$p_primary : yellow;
+
+p{
+  color: $p_primary;
+}
